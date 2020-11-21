@@ -8,7 +8,7 @@ Code is provided in Matlab programming language.
 
 ## Example Usage
 
-* Please modify `GRtools/GRoptset.m` and `TKESTIMATION_optset.m` properly to your data. 
+* Please modify `GRtools/GRoptset.m` and `TKESTIMATION_optset.m` to your data. 
 * Run `demo_recon.m`.
 
 ## Dependencies
