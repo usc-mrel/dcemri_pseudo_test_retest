@@ -1,0 +1,7 @@
+--- Cartesian radial image reconstruction ---
+R. Marc Lebel
+mlebel@gmail.com
+
+Date:                20-Feb-2015 15:11:36
+Directory:           /home/mlebel/Dropbox/matlab/MREL_functions/l1SPIRiT_svn/Transform_Functions/Math_Functions
+
